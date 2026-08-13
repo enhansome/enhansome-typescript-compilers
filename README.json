@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "JavaScript Targets"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Runtimes"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Loaders / Execution Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Other Language Targets"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Experimental/Research Projects"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:08:08.361Z",
+    "original_repository": "JohnDeved/awesome-typescript-compilers",
+    "original_repository_sha": "8a66915d79ae9cd1561c4ed6f1163d195d573cd5",
+    "enhanced_repository": "enhansome/enhansome-typescript-compilers",
+    "enhanced_repository_description": null,
+    "title": "Awesome TypeScript Compilers, Transpilers and Runtimes with stars"
+  }
+}
