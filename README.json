@@ -1,10 +1,10 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-19T19:39:10.342Z",
+    "last_updated": "2026-08-20T19:45:26.112Z",
     "original_repository": "JohnDeved/awesome-typescript-compilers",
     "original_repository_id": 459346103,
-    "original_repository_sha": "8a66915d79ae9cd1561c4ed6f1163d195d573cd5",
+    "original_repository_sha": "6613c79b05a279d8f7d64eb6cb174381f3ee68e7",
     "enhanced_repository": "enhansome/enhansome-typescript-compilers",
     "enhanced_repository_description": null,
     "title": "Awesome TypeScript Compilers, Transpilers and Runtimes with stars"
