@@ -1,7 +1,1238 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tsc",
+          "description": "Official TypeScript compiler by Microsoft. (playground)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 20929025,
+            "language": "Go",
+            "last_commit": "2026-08-24T01:47:42Z",
+            "owner": "microsoft",
+            "repo": "TypeScript",
+            "stars": 110650
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tsgo",
+          "description": "Go-based TypeScript compiler by Microsoft targeting 10x performance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 860100131,
+            "language": "Go",
+            "last_commit": "2026-08-24T10:38:19Z",
+            "owner": "microsoft",
+            "repo": "typescript-go",
+            "stars": 26229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "swc",
+          "description": "Rust-based platform for fast TypeScript/JavaScript compilation. (playground)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 115110181,
+            "language": "Rust",
+            "last_commit": "2026-08-24T11:50:59Z",
+            "owner": "swc-project",
+            "repo": "swc",
+            "stars": 34184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "esbuild",
+          "description": "Extremely fast TypeScript/JavaScript bundler written in Go. (playground)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 61137153,
+            "language": "Go",
+            "last_commit": "2026-08-09T17:20:12Z",
+            "owner": "evanw",
+            "repo": "esbuild",
+            "stars": 40016
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vite",
+          "description": "Next generation frontend tooling with TypeScript support. (playground)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 257485422,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T04:58:55Z",
+            "owner": "vitejs",
+            "repo": "vite",
+            "stars": 82508
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rspack",
+          "description": "Rust-based Webpack-compatible bundler with TypeScript support. (playground)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 476642602,
+            "language": "Rust",
+            "last_commit": "2026-08-24T14:39:02Z",
+            "owner": "web-infra-dev",
+            "repo": "rspack",
+            "stars": 12869
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Turbopack",
+          "description": "Rust-based incremental bundler with zero-config TypeScript support in Next.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 413918947,
+            "language": "Rust",
+            "last_commit": "2026-08-24T03:51:38Z",
+            "owner": "vercel",
+            "repo": "turborepo",
+            "stars": 31003
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rsbuild",
+          "description": "Fast build tool that integrates Rspack, SWC, and Lightning CSS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 701750420,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:37:16Z",
+            "owner": "web-infra-dev",
+            "repo": "rsbuild",
+            "stars": 3364
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rslib",
+          "description": "Library development tool built on top of Rsbuild/Rspack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 766839449,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T12:04:55Z",
+            "owner": "web-infra-dev",
+            "repo": "rslib",
+            "stars": 1002
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "biome",
+          "description": "Successor to Rome providing a unified TypeScript toolchain. (playground)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 671654508,
+            "language": "Rust",
+            "last_commit": "2026-08-24T14:44:16Z",
+            "owner": "biomejs",
+            "repo": "biome",
+            "stars": 25635
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rolldown",
+          "description": "Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API. (repl)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 693187866,
+            "language": "Rust",
+            "last_commit": "2026-08-24T10:54:09Z",
+            "owner": "rolldown",
+            "repo": "rolldown",
+            "stars": 13911
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tsdown",
+          "description": "Library bundler powered by Rolldown and Oxc; builds TypeScript and generates declaration files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 769189766,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T03:15:14Z",
+            "owner": "rolldown",
+            "repo": "tsdown",
+            "stars": 4227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "farm",
+          "description": "Extremely fast Vite-compatible web build tool written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 507542208,
+            "language": "Rust",
+            "last_commit": "2026-06-14T13:57:04Z",
+            "owner": "farm-fe",
+            "repo": "farm",
+            "stars": 5592
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mako",
+          "description": "Rust-based web bundler for apps, libraries, and frameworks. (playground)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 624259511,
+            "language": "Rust",
+            "last_commit": "2026-08-24T10:41:25Z",
+            "owner": "utooland",
+            "repo": "utoo",
+            "stars": 2539
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oxc",
+          "description": "Rust-based JavaScript/TypeScript toolchain including parser, linter, and compiler. (playground)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 599431918,
+            "language": "Rust",
+            "last_commit": "2026-08-24T14:47:35Z",
+            "owner": "oxc-project",
+            "repo": "oxc",
+            "stars": 22462
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "swc4j",
+          "description": "JVM-facing TypeScript/JavaScript compilation and bundling tool built around SWC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 767243064,
+            "language": "Java",
+            "last_commit": "2026-08-09T11:19:41Z",
+            "owner": "caoccao",
+            "repo": "swc4j",
+            "stars": 191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webpack",
+          "description": "JavaScript bundler with TypeScript integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3678731,
+            "language": "JavaScript",
+            "last_commit": "2026-08-23T20:45:05Z",
+            "owner": "webpack",
+            "repo": "webpack",
+            "stars": 65971
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rollup",
+          "description": "JavaScript module bundler with TypeScript support. (repl)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 35640229,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T04:49:06Z",
+            "owner": "rollup",
+            "repo": "rollup",
+            "stars": 26309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "parcel",
+          "description": "Zero configuration web app bundler with TypeScript support. (repl)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 99598595,
+            "language": "JavaScript",
+            "last_commit": "2026-08-22T04:11:21Z",
+            "owner": "parcel-bundler",
+            "repo": "parcel",
+            "stars": 44019
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tsup",
+          "description": "TypeScript bundler powered by esbuild.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 248550680,
+            "language": "TypeScript",
+            "last_commit": "2026-07-20T03:11:55Z",
+            "owner": "egoist",
+            "repo": "tsup",
+            "stars": 11290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "babel",
+          "description": "The compiler for next generation JavaScript with TypeScript support. (playground)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24560307,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T14:27:11Z",
+            "owner": "babel",
+            "repo": "babel",
+            "stars": 43989
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sucrase",
+          "description": "Super-fast alternative to Babel focusing on modern JS runtimes. (playground)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 105677687,
+            "language": "TypeScript",
+            "last_commit": "2025-11-19T17:12:45Z",
+            "owner": "alangpierce",
+            "repo": "sucrase",
+            "stars": 5870
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ezno",
+          "description": "JavaScript compiler and TypeScript checker in Rust focusing on static analysis. (playground)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 597169169,
+            "language": "Rust",
+            "last_commit": "2026-06-16T19:49:29Z",
+            "owner": "kaleidawave",
+            "repo": "ezno",
+            "stars": 2735
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stc",
+          "description": "Rust-based static type checker for TypeScript focusing on performance.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 325283778,
+            "language": "Rust",
+            "last_commit": "2024-01-25T14:30:28Z",
+            "owner": "dudykr",
+            "repo": "stc",
+            "stars": 5714
+          }
+        }
+      ],
+      "title": "JavaScript Targets"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "deno",
+          "description": "Secure TypeScript runtime & toolkit written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 133442384,
+            "language": "Rust",
+            "last_commit": "2026-08-24T14:38:50Z",
+            "owner": "denoland",
+            "repo": "deno",
+            "stars": 108296
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bun",
+          "description": "Fast JavaScript and TypeScript runtime & toolkit written in Zig.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 357728969,
+            "language": "Rust",
+            "last_commit": "2026-08-24T14:47:13Z",
+            "owner": "oven-sh",
+            "repo": "bun",
+            "stars": 95646
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node.js 23.6.0+",
+          "description": "Partial support in 23.6.0+",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 27193779,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T14:31:35Z",
+            "owner": "nodejs",
+            "repo": "node",
+            "stars": 119339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "elsa",
+          "description": "Minimal runtime for JavaScript and TypeScript written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 296573191,
+            "language": "TypeScript",
+            "last_commit": "2022-11-29T16:00:41Z",
+            "owner": "elsaland",
+            "repo": "elsa",
+            "stars": 2833
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "elide",
+          "description": "Polyglot runtime and toolchain with native TypeScript, JavaScript, Kotlin, and Python support, built on GraalVM. (playground)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 506113888,
+            "language": null,
+            "last_commit": "2026-08-24T02:16:12Z",
+            "owner": "elide-dev",
+            "repo": "elide",
+            "stars": 566
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yavascript",
+          "description": "QuickJS-based scripting runtime with built-in TypeScript transpilation, designed as a bash replacement.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 512080564,
+            "language": "TypeScript",
+            "last_commit": "2026-08-17T02:18:18Z",
+            "owner": "suchipi",
+            "repo": "yavascript",
+            "stars": 111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "txiki.js",
+          "description": "Tiny JavaScript runtime built on QuickJS-ng and libuv, with TypeScript type definitions via .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 198097850,
+            "language": "C",
+            "last_commit": "2026-08-24T13:38:32Z",
+            "owner": "saghul",
+            "repo": "txiki.js",
+            "stars": 3124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLRT",
+          "description": "Low Latency Runtime for AWS Lambda by AWS Labs; runs TypeScript when bundled/transpiled ahead of time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 694161442,
+            "language": "Rust",
+            "last_commit": "2026-08-24T13:47:31Z",
+            "owner": "awslabs",
+            "repo": "llrt",
+            "stars": 8790
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeviceScript",
+          "description": "TypeScript for tiny IoT devices (ESP32, RP2040, ...) — Microsoft project that compiles a subset of TS to a custom VM bytecode (archived).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 469857534,
+            "language": "TypeScript",
+            "last_commit": "2024-10-24T01:25:33Z",
+            "owner": "microsoft",
+            "repo": "devicescript",
+            "stars": 3447
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Andromeda",
+          "description": "JavaScript & TypeScript runtime in Rust built on the Nova engine, with zero-config TypeScript support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 831266888,
+            "language": "Rust",
+            "last_commit": "2026-06-15T03:20:21Z",
+            "owner": "tryandromeda",
+            "repo": "andromeda",
+            "stars": 838
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dune",
+          "description": "Hobby JavaScript and TypeScript runtime built on V8 in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 444909871,
+            "language": "Rust",
+            "last_commit": "2026-07-24T21:23:45Z",
+            "owner": "aalykiot",
+            "repo": "dune",
+            "stars": 411
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "azle",
+          "description": "WebAssembly runtime for TypeScript and JavaScript on the Internet Computer (ICP).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 460125865,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T10:40:50Z",
+            "owner": "demergent-labs",
+            "repo": "azle",
+            "stars": 230
+          }
+        }
+      ],
+      "title": "Runtimes"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tsx",
+          "description": "Run TypeScript with an esbuild-powered ESM loader.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 470318046,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T03:39:15Z",
+            "owner": "privatenumber",
+            "repo": "tsx",
+            "stars": 12118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ts-node",
+          "description": "TypeScript execution and REPL for Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 39111193,
+            "language": "TypeScript",
+            "last_commit": "2024-07-18T18:14:16Z",
+            "owner": "TypeStrong",
+            "repo": "ts-node",
+            "stars": 13128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ts-blank-space",
+          "description": "Small, fast, pure-JS type-stripper that uses the official TypeScript parser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 844646745,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T18:53:09Z",
+            "owner": "bloomberg",
+            "repo": "ts-blank-space",
+            "stars": 939
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "swc-node",
+          "description": "Fast Node runtime path for TypeScript without typechecking.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 280068470,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T03:44:29Z",
+            "owner": "swc-project",
+            "repo": "swc-node",
+            "stars": 1982
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "esbuild-register",
+          "description": "On-the-fly JSX/TypeScript/esnext transpilation with esbuild.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 280049771,
+            "language": "TypeScript",
+            "last_commit": "2024-07-25T13:46:42Z",
+            "owner": "egoist",
+            "repo": "esbuild-register",
+            "stars": 1011
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tsm",
+          "description": "TypeScript module loader supporting , , and .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 413679567,
+            "language": "TypeScript",
+            "last_commit": "2024-01-20T17:10:20Z",
+            "owner": "lukeed",
+            "repo": "tsm",
+            "stars": 1192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tsimp",
+          "description": "Node import loader that uses the official TypeScript implementation and aims for consistency with typechecking.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 704723890,
+            "language": "JavaScript",
+            "last_commit": "2024-10-22T15:13:34Z",
+            "owner": "tapjs",
+            "repo": "tsimp",
+            "stars": 531
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Amaro",
+          "description": "Node.js TypeScript wrapper around , used internally for Node’s type stripping.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 829625494,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T05:38:50Z",
+            "owner": "nodejs",
+            "repo": "amaro",
+            "stars": 794
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vite-node",
+          "description": "Legacy Vite-powered Node runtime with TS support; new projects are now directed to Vite’s built-in Module Runner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 415078018,
+            "language": "TypeScript",
+            "last_commit": "2026-03-13T14:41:24Z",
+            "owner": "antfu-collective",
+            "repo": "vite-node",
+            "stars": 480
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jiti",
+          "description": "Runtime TypeScript and ESM support for Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 270135001,
+            "language": "TypeScript",
+            "last_commit": "2026-08-22T03:43:03Z",
+            "owner": "unjs",
+            "repo": "jiti",
+            "stars": 2939
+          }
+        }
+      ],
+      "title": "Loaders / Execution Tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AssemblyScript",
+          "description": "TypeScript-like language for WebAssembly. (playground)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 105138356,
+            "language": "WebAssembly",
+            "last_commit": "2026-07-22T02:56:30Z",
+            "owner": "AssemblyScript",
+            "repo": "assemblyscript",
+            "stars": 17993
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ts2lua",
+          "description": "Feature-complete TypeScript to Lua compiler. (playground)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 115876595,
+            "language": "TypeScript",
+            "last_commit": "2026-07-09T19:34:11Z",
+            "owner": "TypeScriptToLua",
+            "repo": "TypeScriptToLua",
+            "stars": 2538
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "roblox-ts",
+          "description": "TypeScript-to-Luau compiler for Roblox. (playground)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 147587500,
+            "language": "TypeScript",
+            "last_commit": "2026-07-25T10:24:22Z",
+            "owner": "roblox-ts",
+            "repo": "roblox-ts",
+            "stars": 1288
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ts2c",
+          "description": "Convert Javascript/TypeScript to C (online demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 64089592,
+            "language": "C",
+            "last_commit": "2025-11-21T21:54:47Z",
+            "owner": "andrei-markeev",
+            "repo": "ts2c",
+            "stars": 1377
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TypeScript2Cxx",
+          "description": "TypeScript to C++ transpiler.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 251032187,
+            "language": "C",
+            "last_commit": "2026-08-07T22:50:53Z",
+            "owner": "ASDAlexander77",
+            "repo": "TypeScript2Cxx",
+            "stars": 709
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ts2gd",
+          "description": "Compile TypeScript to GDScript for Godot.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 316784592,
+            "language": "TypeScript",
+            "last_commit": "2025-08-12T15:25:37Z",
+            "owner": "johnfn",
+            "repo": "ts2gd",
+            "stars": 240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typesl",
+          "description": "Typescript to GLSL transpiler.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 526902474,
+            "language": "TypeScript",
+            "last_commit": "2025-09-25T15:22:49Z",
+            "owner": "SieR-VR",
+            "repo": "typesl",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hydro-sdk",
+          "description": "No native bridge, no V8. Just Dart.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 237835599,
+            "language": "Dart",
+            "last_commit": "2026-02-16T15:26:57Z",
+            "owner": "hydro-sdk",
+            "repo": "hydro-sdk",
+            "stars": 689
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsii",
+          "description": "Lets you author libraries in TypeScript and consume them from Python, Java, C#/.NET, Go, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 105802846,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T11:33:53Z",
+            "owner": "aws",
+            "repo": "jsii",
+            "stars": 2866
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ts2nim",
+          "description": "Typescript to Nim transpiler.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 261514028,
+            "language": "TypeScript",
+            "last_commit": "2023-12-25T04:07:16Z",
+            "owner": "bung87",
+            "repo": "ts2nim",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ts2dart",
+          "description": "TypeScript to Dart transpiler.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 32405591,
+            "language": "TypeScript",
+            "last_commit": "2016-08-16T01:12:08Z",
+            "owner": "dart-archive",
+            "repo": "ts2dart",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SharpTS",
+          "description": "TypeScript interpreter/compiler in C# with ahead-of-time compilation to .NET IL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1126940580,
+            "language": "C#",
+            "last_commit": "2026-08-24T08:01:09Z",
+            "owner": "nickna",
+            "repo": "SharpTS",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "speedy.js",
+          "description": "Compile TypeScript to WebAssembly for accelerated execution.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 84058066,
+            "language": "TypeScript",
+            "last_commit": "2017-10-23T14:32:01Z",
+            "owner": "MichaReiser",
+            "repo": "speedy.js",
+            "stars": 342
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ts2rust",
+          "description": "Typescript to Rust transpiler.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 323954663,
+            "language": "TypeScript",
+            "last_commit": "2020-12-23T16:47:05Z",
+            "owner": "vedantroy",
+            "repo": "ts2rust",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ts2php",
+          "description": "Typescript to PHP Transpiler.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 171823726,
+            "language": "TypeScript",
+            "last_commit": "2024-07-04T06:51:16Z",
+            "owner": "searchfe",
+            "repo": "ts2php",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ts2py",
+          "description": "TypeScript to Python converter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 804521978,
+            "language": "Rust",
+            "last_commit": "2024-07-03T21:30:25Z",
+            "owner": "chayleaf",
+            "repo": "ts2py",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ast-transpiler",
+          "description": "Work-in-progress AST-based transpiler from TypeScript to PHP, Python, C#, and Go.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 548429247,
+            "language": "TypeScript",
+            "last_commit": "2023-11-04T21:17:12Z",
+            "owner": "carlosmiei",
+            "repo": "ast-transpiler",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Karakum",
+          "description": "Converts TypeScript declaration files into Kotlin declarations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 456203185,
+            "language": "Kotlin",
+            "last_commit": "2026-08-13T08:58:38Z",
+            "owner": "karakum-team",
+            "repo": "karakum",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Porffor",
+          "description": "Ahead-of-time JavaScript/TypeScript compiler producing WebAssembly and native binaries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 658186257,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T02:51:03Z",
+            "owner": "CanadaHonk",
+            "repo": "porffor",
+            "stars": 5032
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ts2go",
+          "description": "Experimental TypeScript to Go transpiler. (playground)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 753027369,
+            "language": "TypeScript",
+            "last_commit": "2024-07-12T14:18:29Z",
+            "owner": "leona",
+            "repo": "ts2go",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ts-swift-transpiler",
+          "description": "JavaScript/TypeScript to Swift transpiler built with ANTLR.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 78285322,
+            "language": "Java",
+            "last_commit": "2017-01-11T19:27:38Z",
+            "owner": "marcelganczak",
+            "repo": "ts-swift-transpiler",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ts2haxe",
+          "description": "TypeScript to Haxe converter that automates common conversion tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 10077999,
+            "language": "JavaScript",
+            "last_commit": "2013-05-15T13:02:10Z",
+            "owner": "Ezelia",
+            "repo": "ts2haxe",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wasmnizer-ts",
+          "description": "Toolchain for compiling TypeScript to WebAssembly with GC support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 688431872,
+            "language": "TypeScript",
+            "last_commit": "2024-11-29T02:39:50Z",
+            "owner": "web-devkits",
+            "repo": "Wasmnizer-ts",
+            "stars": 395
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "poseidon",
+          "description": "Transpiler that converts TypeScript Solana programs into Anchor (Rust).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 860731342,
+            "language": "Rust",
+            "last_commit": "2025-05-20T16:52:32Z",
+            "owner": "Turbin3",
+            "repo": "poseidon",
+            "stars": 155
+          }
+        }
+      ],
+      "title": "Other Language Targets"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BosqueLang",
+          "description": "A TypeScript-like language created by Microsoft.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 174774052,
+            "language": "TypeScript",
+            "last_commit": "2022-10-27T20:39:01Z",
+            "owner": "microsoft",
+            "repo": "BosqueLanguage",
+            "stars": 5210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TypeRunner",
+          "description": "Experimental TypeScript to native code compiler.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 520362846,
+            "language": "C++",
+            "last_commit": "2025-03-06T12:37:36Z",
+            "owner": "marcj",
+            "repo": "TypeRunner",
+            "stars": 2657
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scriptc",
+          "description": "Experimental TypeScript/JavaScript compiler that emits LLVM IR for native executables and WebAssembly modules.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1309331155,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T12:28:38Z",
+            "owner": "vercel-labs",
+            "repo": "scriptc",
+            "stars": 4513
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StaticScript",
+          "description": "A new statically typed programming language with native compilation.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 272354688,
+            "language": "C++",
+            "last_commit": "2021-05-17T13:39:59Z",
+            "owner": "StaticScript",
+            "repo": "StaticScript",
+            "stars": 331
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tsCompiler",
+          "description": "TypeScript to native code compiler using LLVM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 326540525,
+            "language": "C++",
+            "last_commit": "2026-07-26T19:01:10Z",
+            "owner": "ASDAlexander77",
+            "repo": "TypeScriptCompiler",
+            "stars": 760
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ts-llvm",
+          "description": "TypeScript to LLVM IR compiler enabling AOT native compilation (archived).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 131430856,
+            "language": "TypeScript",
+            "last_commit": "2019-10-30T10:11:13Z",
+            "owner": "emillaine",
+            "repo": "ts-llvm",
+            "stars": 293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mini-typescript",
+          "description": "A miniature model of the TypeScript compiler intended to teach the structure of the real one.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 373586782,
+            "language": "TypeScript",
+            "last_commit": "2024-08-17T03:21:18Z",
+            "owner": "sandersn",
+            "repo": "mini-typescript",
+            "stars": 1208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "muta-minits",
+          "description": "TypeScript to LLVM compiler from Nervos Network for the Muta blockchain framework (archived).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 200999038,
+            "language": "TypeScript",
+            "last_commit": "2022-06-23T22:34:40Z",
+            "owner": "nervosnetwork",
+            "repo": "muta-minits",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typescript-types-only-wasm-runtime",
+          "description": "A WebAssembly runtime implemented entirely in TypeScript types.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 699552213,
+            "language": "TypeScript",
+            "last_commit": "2025-03-07T20:24:31Z",
+            "owner": "MichiganTypeScript",
+            "repo": "typescript-types-only-wasm-runtime",
+            "stars": 2403
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tyvm",
+          "description": "Experimental bytecode interpreter / type-checker for type-level TypeScript, written in Zig.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 678931653,
+            "language": "Zig",
+            "last_commit": "2024-11-25T04:46:18Z",
+            "owner": "zackradisic",
+            "repo": "tyvm",
+            "stars": 553
+          }
+        }
+      ],
+      "title": "Experimental/Research Projects"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T19:34:22.978Z",
+    "last_updated": "2026-08-24T14:50:16.306Z",
     "original_repository": "JohnDeved/awesome-typescript-compilers",
     "original_repository_id": 459346103,
     "original_repository_sha": "6613c79b05a279d8f7d64eb6cb174381f3ee68e7",
