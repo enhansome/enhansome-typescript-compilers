@@ -12,10 +12,10 @@
             "archived": false,
             "id": 20929025,
             "language": "Go",
-            "last_commit": "2026-08-24T19:36:26Z",
+            "last_commit": "2026-08-24T22:58:23Z",
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 110656
+            "stars": 110667
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 115110181,
             "language": "Rust",
-            "last_commit": "2026-08-24T18:25:33Z",
+            "last_commit": "2026-08-25T05:01:11Z",
             "owner": "swc-project",
             "repo": "swc",
-            "stars": 34185
+            "stars": 34189
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-09T17:20:12Z",
             "owner": "evanw",
             "repo": "esbuild",
-            "stars": 40017
+            "stars": 40020
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-24T04:58:55Z",
             "owner": "vitejs",
             "repo": "vite",
-            "stars": 82512
+            "stars": 82520
           }
         },
         {
@@ -87,10 +87,10 @@
             "archived": false,
             "id": 476642602,
             "language": "Rust",
-            "last_commit": "2026-08-24T17:37:06Z",
+            "last_commit": "2026-08-25T06:31:11Z",
             "owner": "web-infra-dev",
             "repo": "rspack",
-            "stars": 12869
+            "stars": 12870
           }
         },
         {
@@ -102,10 +102,10 @@
             "archived": false,
             "id": 413918947,
             "language": "Rust",
-            "last_commit": "2026-08-24T03:51:38Z",
+            "last_commit": "2026-08-25T01:33:30Z",
             "owner": "vercel",
             "repo": "turborepo",
-            "stars": 31004
+            "stars": 31007
           }
         },
         {
@@ -117,7 +117,7 @@
             "archived": false,
             "id": 701750420,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:37:16Z",
+            "last_commit": "2026-08-25T06:34:04Z",
             "owner": "web-infra-dev",
             "repo": "rsbuild",
             "stars": 3365
@@ -132,7 +132,7 @@
             "archived": false,
             "id": 766839449,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T12:04:55Z",
+            "last_commit": "2026-08-25T03:46:22Z",
             "owner": "web-infra-dev",
             "repo": "rslib",
             "stars": 1002
@@ -147,10 +147,10 @@
             "archived": false,
             "id": 671654508,
             "language": "Rust",
-            "last_commit": "2026-08-24T19:16:37Z",
+            "last_commit": "2026-08-25T06:07:33Z",
             "owner": "biomejs",
             "repo": "biome",
-            "stars": 25637
+            "stars": 25639
           }
         },
         {
@@ -162,7 +162,7 @@
             "archived": false,
             "id": 693187866,
             "language": "Rust",
-            "last_commit": "2026-08-24T15:35:25Z",
+            "last_commit": "2026-08-25T06:33:19Z",
             "owner": "rolldown",
             "repo": "rolldown",
             "stars": 13912
@@ -177,7 +177,7 @@
             "archived": false,
             "id": 769189766,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T03:15:14Z",
+            "last_commit": "2026-08-24T20:34:57Z",
             "owner": "rolldown",
             "repo": "tsdown",
             "stars": 4228
@@ -222,10 +222,10 @@
             "archived": false,
             "id": 599431918,
             "language": "Rust",
-            "last_commit": "2026-08-24T19:24:22Z",
+            "last_commit": "2026-08-25T05:17:02Z",
             "owner": "oxc-project",
             "repo": "oxc",
-            "stars": 22464
+            "stars": 22467
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2026-08-09T11:19:41Z",
             "owner": "caoccao",
             "repo": "swc4j",
-            "stars": 191
+            "stars": 192
           }
         },
         {
@@ -252,10 +252,10 @@
             "archived": false,
             "id": 3678731,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T19:41:14Z",
+            "last_commit": "2026-08-25T06:37:00Z",
             "owner": "webpack",
             "repo": "webpack",
-            "stars": 65971
+            "stars": 65972
           }
         },
         {
@@ -267,7 +267,7 @@
             "archived": false,
             "id": 35640229,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T04:49:06Z",
+            "last_commit": "2026-08-25T04:41:26Z",
             "owner": "rollup",
             "repo": "rollup",
             "stars": 26309
@@ -282,7 +282,7 @@
             "archived": false,
             "id": 99598595,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T04:11:21Z",
+            "last_commit": "2026-08-25T03:06:25Z",
             "owner": "parcel-bundler",
             "repo": "parcel",
             "stars": 44019
@@ -378,10 +378,10 @@
             "archived": false,
             "id": 133442384,
             "language": "Rust",
-            "last_commit": "2026-08-24T15:46:11Z",
+            "last_commit": "2026-08-25T00:56:49Z",
             "owner": "denoland",
             "repo": "deno",
-            "stars": 108295
+            "stars": 108300
           }
         },
         {
@@ -393,10 +393,10 @@
             "archived": false,
             "id": 357728969,
             "language": "Rust",
-            "last_commit": "2026-08-24T19:44:12Z",
+            "last_commit": "2026-08-25T06:36:11Z",
             "owner": "oven-sh",
             "repo": "bun",
-            "stars": 95652
+            "stars": 95668
           }
         },
         {
@@ -408,10 +408,10 @@
             "archived": false,
             "id": 27193779,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T18:17:11Z",
+            "last_commit": "2026-08-25T02:52:18Z",
             "owner": "nodejs",
             "repo": "node",
-            "stars": 119497
+            "stars": 119547
           }
         },
         {
@@ -483,7 +483,7 @@
             "archived": false,
             "id": 694161442,
             "language": "Rust",
-            "last_commit": "2026-08-24T13:47:31Z",
+            "last_commit": "2026-08-25T04:53:28Z",
             "owner": "awslabs",
             "repo": "llrt",
             "stars": 8790
@@ -528,7 +528,7 @@
             "archived": false,
             "id": 444909871,
             "language": "Rust",
-            "last_commit": "2026-07-24T21:23:45Z",
+            "last_commit": "2026-08-24T20:43:33Z",
             "owner": "aalykiot",
             "repo": "dune",
             "stars": 411
@@ -567,7 +567,7 @@
             "last_commit": "2026-08-10T03:39:15Z",
             "owner": "privatenumber",
             "repo": "tsx",
-            "stars": 12118
+            "stars": 12121
           }
         },
         {
@@ -885,7 +885,7 @@
             "archived": false,
             "id": 1126940580,
             "language": "C#",
-            "last_commit": "2026-08-24T18:59:54Z",
+            "last_commit": "2026-08-25T05:57:23Z",
             "owner": "nickna",
             "repo": "SharpTS",
             "stars": 152
@@ -993,7 +993,7 @@
             "last_commit": "2026-08-12T02:51:03Z",
             "owner": "CanadaHonk",
             "repo": "porffor",
-            "stars": 5033
+            "stars": 5036
           }
         },
         {
@@ -1068,7 +1068,7 @@
             "last_commit": "2025-05-20T16:52:32Z",
             "owner": "Turbin3",
             "repo": "poseidon",
-            "stars": 155
+            "stars": 154
           }
         }
       ],
@@ -1119,7 +1119,7 @@
             "last_commit": "2026-08-24T12:28:38Z",
             "owner": "vercel-labs",
             "repo": "scriptc",
-            "stars": 4526
+            "stars": 4556
           }
         },
         {
@@ -1209,7 +1209,7 @@
             "last_commit": "2025-03-07T20:24:31Z",
             "owner": "MichiganTypeScript",
             "repo": "typescript-types-only-wasm-runtime",
-            "stars": 2403
+            "stars": 2404
           }
         },
         {
@@ -1232,7 +1232,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T19:44:51.863Z",
+    "last_updated": "2026-08-25T06:41:03.578Z",
     "original_repository": "JohnDeved/awesome-typescript-compilers",
     "original_repository_id": 459346103,
     "original_repository_sha": "6613c79b05a279d8f7d64eb6cb174381f3ee68e7",
